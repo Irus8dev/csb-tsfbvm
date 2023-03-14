@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://irus8dev.github.io/csb-tsfbvm/static/css/main.8c262e8b.chunk.css",
+    "main.js": "https://irus8dev.github.io/csb-tsfbvm/static/js/main.bbd6724b.chunk.js",
+    "main.js.map": "https://irus8dev.github.io/csb-tsfbvm/static/js/main.bbd6724b.chunk.js.map",
+    "runtime-main.js": "https://irus8dev.github.io/csb-tsfbvm/static/js/runtime-main.8a779f28.js",
+    "runtime-main.js.map": "https://irus8dev.github.io/csb-tsfbvm/static/js/runtime-main.8a779f28.js.map",
+    "static/js/2.b95029ea.chunk.js": "https://irus8dev.github.io/csb-tsfbvm/static/js/2.b95029ea.chunk.js",
+    "static/js/2.b95029ea.chunk.js.map": "https://irus8dev.github.io/csb-tsfbvm/static/js/2.b95029ea.chunk.js.map",
+    "index.html": "https://irus8dev.github.io/csb-tsfbvm/index.html",
+    "static/css/main.8c262e8b.chunk.css.map": "https://irus8dev.github.io/csb-tsfbvm/static/css/main.8c262e8b.chunk.css.map",
+    "static/js/2.b95029ea.chunk.js.LICENSE.txt": "https://irus8dev.github.io/csb-tsfbvm/static/js/2.b95029ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a779f28.js",
+    "static/js/2.b95029ea.chunk.js",
+    "static/css/main.8c262e8b.chunk.css",
+    "static/js/main.bbd6724b.chunk.js"
+  ]
+}
